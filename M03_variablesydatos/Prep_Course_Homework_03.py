@@ -16,7 +16,7 @@ print(variable_uno)
 
 # In[3]
 print(type(8.5))
-
+#Float
 
 
 
